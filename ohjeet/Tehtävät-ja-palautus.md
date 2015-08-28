@@ -1,8 +1,8 @@
 ﻿# Tehtävät ja palautus
 
-**Deadline on palautuksille torstaisin klo 23:59 ja loppupalautukselle torstaina 3.9. klo 23:59**
+**Deadline on palautuksille torstaisin klo 23:59 ja loppupalautukselle torstaina 8.10. klo 23:59**
 
-Ensimmäisessä deadline suoritetaan tekemällä vaadittavat tehtävät ja rekisteröitymällä [labtooliin](http://tktl-labtool.herokuapp.com/register). **Valitse meneillään oleva kurssi Javalabra2015-6**
+Ensimmäisessä deadline suoritetaan tekemällä vaadittavat tehtävät ja rekisteröitymällä [labtooliin](http://tktl-labtool.herokuapp.com/register). **Valitse meneillään oleva kurssi Javalabra2015-1**
 
 Versionhallinnassa käytetään tällä kurssilla Gittiä, tarkemmin Github-palvelua. Ensimmäisen deadlinen jälkeen palautukseksi katsotaan viimeisin ennen deadlinea suoritettu Github-pushaus. Erillisiä sähköpostipalautuksia tai vastaavia ei hyväksytä.
 
@@ -15,25 +15,25 @@ Jokaisen palautuksen yhteydessä ohjelma tulee voida ajaa ilman virheilmoituksia
 * Käy tasaisin ajoin keskustelemassa edistymisestäsi, saat samalla palautteen!
 * **Lisäaikaa saa hyvällä syyllä, etukäteen pyytämällä**
 
-### Deadline I, torstai 30.7.
+### Deadline I, torstai 3.9.
 * [Deadlinen 1 vaatimukset](Deadline-1.md)
 
-### Deadline II, torstai 6.8.
+### Deadline II, torstai 10.9.
 * [Deadlinen 2 vaatimukset](Deadline-2.md)
 
-### Deadline III, torstai 13.8.
+### Deadline III, torstai 17.9.
 * [Deadlinen 3 vaatimukset](Deadline-3.md)
 
-### Deadline Katselmointi I, sunnuntai 16.8.
+### Deadline Katselmointi I, sunnuntai 20.9.
 * Deadline [koodikatselmoinnille](Koodikatselmointi.md)
 
-### Deadline IV, torstai 20.8.
+### Deadline IV, torstai 24.9.
 * [Deadlinen 4 vaatimukset](Deadline-4.md)
 
-### Deadline V, torstai 27.8.
+### Deadline V, torstai 1.10.
 * [Deadlinen 5 vaatimukset](Deadline-5.md)
 
-### Deadline Katselmointi II, sunnuntai 30.8.
+### Deadline Katselmointi II, sunnuntai 4.10.
 * Deadline [koodikatselmoinnille](Koodikatselmointi.md)
 
 
@@ -47,6 +47,6 @@ Jokaisen palautuksen yhteydessä ohjelma tulee voida ajaa ilman virheilmoituksia
 * Testaa, että ohjelmasi toimii laitoksen koneilla ennen demoa. Demokoneelle on ladattu kaikkien kurssilaisten GitHub-repositoriot hieman ennen demotilaisuuden alkua. Voit vaihtoehtoisesti tuoda oman läppärisi ja demota siltä.
 * Avoimen opiskelijoille, jotka suorittavat kurssia etäopintoina ja eivät pitkän matkan vuoksi pääse demoamaan, järjestetään korvaava tehtävä. Tästä lisää myöhemmin. 
 
-### Deadline VI ja lopullinen palautus, torstai 3.9.
+### Deadline VI ja lopullinen palautus, torstai 8.10.
 * [Deadlinen 6 vaatimukset](Deadline-6-lopullinen-palautus.md)
 * [Muistilista lopullista palautusta varten](Muistilista.md)
