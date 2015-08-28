@@ -41,4 +41,4 @@ Pajat pidetään [Exactumissa](http://www.helsinki.fi/teknos/opetustilat/kumpula
 | **40** <br> 28.9-4.10 |  - |**PAJA*** <br>klo.12-14 <br>|  -  |**Palautus 5** <br> klo. 23:59|  -  |  -  |**Katselmointi 2** <br> klo: 23:59  |
 | **41** <br> 5.10-11.10 |  - |**PAJA*** <br>klo.12-14 <br>|  -  | **Lopullinen palautus** <br> klo. 23:59|  -  |  -  |  -  |
 
-** *Paja-ajat eivät vielä päätetty**
+** *Paja-ajat eivät vielä päätetty **
