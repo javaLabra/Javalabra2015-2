@@ -14,6 +14,7 @@
 
 **Ohjaajat:**
 * Nikke Kostiainen (NikG)
+* Jyri Saukkonen (jjyks)
 
 Sähköpostit: etunimi.sukunimi@helsinki.fi
 
@@ -24,11 +25,8 @@ Sähköpostit: etunimi.sukunimi@helsinki.fi
 
 ## Uutisia
 
-* Aloitusluento maanantaina 27.7 klo 14-16 luokassa B221, läsnäolo pakollinen!
-* **(29.7.)** Tämän päivän paja siirretty yläpajaan luokkaan **B221**. Mahdollisesti myös tulevat pajat siirtyvät, tiedoitusta myöhemmin.
-* **(2.8.)** Siirretään loputkin pajat yläpajaan ja siirretään myös tiistain paja torstaille. Tarkat ajat alempana.
-* **(10.8.)** Siirrytään pajailemaan takaisin vapautuneeseen alapajaan BK107.
-* **(21.8.)** Pidetään demotilaisuudet ja pajat alla ilmoitettuina aikoina.
+* Aloitusluento tiistaina 1.9. klo 12-14 luokassa B221, läsnäolo pakollinen!
+* **(28.9.)** Kurssisivut pystytetty
 
 ### Aikataulu
 
@@ -36,10 +34,10 @@ Pajat pidetään [Exactumissa](http://www.helsinki.fi/teknos/opetustilat/kumpula
 
 | Viikko | ma | ti | ke | to | pe | la | su |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| **31** <br> 27.7-2.8 |**Aloitustilaisuus**<br>klo.14-16<br>B221|  -  |**PAJA** <br>klo.14-16<br>**B221**|  **Palautus 1** <br> klo. 23:59 |  -  |  -  |  -  |
-| **32** <br> 3.-9.8 |  - |  -  |**PAJA**<br>klo.14-16| **PAJA** <br>klo.13-14 <br> **Palautus 2** <br> klo. 23:59|  -  |  -  |  -  |
-| **33** <br> 10.-16.8 |  - |  -  |**PAJA**<br>klo.14-16| **PAJA** <br>klo.13-14 <br> **Palautus 3** <br> klo. 23:59|  -  |  -  |**Katselmointi 1** <br> klo: 23:59  |
-| **34** <br> 17.-23.8 |  - |  -  |**PAJA**<br>klo.14-16| **PAJA** <br>klo.13-14 <br> **Palautus 4** <br> klo. 23:59|   - |  -  |  -  | 
-| **35** <br> 24.-30.8 |  - |**DEMO/PAJA**<br>klo.16-18|**DEMO/PAJA**<br>klo.16-18| **Palautus 5** <br> klo. 23:59|  -  |  -  |**Katselmointi 2** <br> klo: 23:59  |
-| **36** <br> 31.8-6.9 |  -  |  -  |  -  | **Lopullinen palautus** <br> klo. 23:59|  -  |  -  |  -  |
+| **36** <br> 31.8-6.9 |**Aloitustilaisuus**<br>klo.14-16<br>B221|  -  |**PAJA** <br>klo.14-16<br>**B221**|  **Palautus 1** <br> klo. 23:59 |  -  |  -  |  -  |
+| **37** <br> 7.-13.9 |  - |**PAJA** <br>klo.12-14 <br>|**PAJA**<br>klo.14-16|  **Palautus 2** <br> klo. 23:59|  -  |  -  |  -  |
+| **38** <br> 14.-20.9 |  - |  -  |**PAJA**<br>klo.14-16| **PAJA** <br>klo.13-14 <br> **Palautus 3** <br> klo. 23:59|  -  |  -  |**Katselmointi 1** <br> klo: 23:59  |
+| **39** <br> 21.-27.9 |  - |  -  |**PAJA**<br>klo.14-16| **PAJA** <br>klo.13-14 <br> **Palautus 4** <br> klo. 23:59|   - |  -  |  -  | 
+| **40** <br> 28.9-4.10 |  - |**DEMO/PAJA**<br>klo.16-18|**DEMO/PAJA**<br>klo.16-18| **Palautus 5** <br> klo. 23:59|  -  |  -  |**Katselmointi 2** <br> klo: 23:59  |
+| **41** <br> 5.10-11.10 |  -  |  -  |  -  | **Lopullinen palautus** <br> klo. 23:59|  -  |  -  |  -  |
 
