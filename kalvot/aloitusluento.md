@@ -6,10 +6,11 @@
 
 - Ohjaajat
 	- Nikke Kostiainen -- **NikG** -- nikke.kostiainen at helsinki.fi
+	- Jyri Saukkonen -- **Jjyks** -- jyri.saukkonen at helsinki.fi
  
 - Yhteyttä sähköpostilla tai irkissä
 - Irkkikanava #javalabra @ IRCnet
-- Kurssisivu <http://github.com/javaLabra/Javalabra2015-5>
+- Kurssisivu <http://github.com/javaLabra/Javalabra2015-1>
 
 # Mistä kyse?
 
@@ -115,7 +116,7 @@
 
 - **Tervetuloa kurssille!**
 - Muistakaa -- ensimmäinen deadline on jo tämän viikon torstaina
-- Kaikki tarvittava löytyy kurssisivulta: <http://javalabra.github.io/Javalabra2015-6/#/pages/>
+- Kaikki tarvittava löytyy kurssisivulta: <http://javalabra.github.io/Javalabra2015-1/#/pages/>
     - Kannattaa käydä koko sivusto läpi tarkkaan!
 - Tulkaa luokan eteen juttelemaan mikäli:
     - Esitietovaatimukset eivät ole täysin kunnossa
