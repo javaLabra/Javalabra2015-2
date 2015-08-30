@@ -2,7 +2,7 @@
 
 **Deadline on palautuksille torstaisin klo 23:59 ja loppupalautukselle torstaina 8.10. klo 23:59**
 
-Ensimmäisessä deadline suoritetaan tekemällä vaadittavat tehtävät ja rekisteröitymällä [labtooliin](http://tktl-labtool.herokuapp.com/register). **Valitse meneillään oleva kurssi Javalabra2015-1**
+Ensimmäinen deadline suoritetaan tekemällä vaadittavat tehtävät ja rekisteröitymällä [labtooliin](http://tktl-labtool.herokuapp.com/register). **Valitse meneillään oleva kurssi Javalabra2015-1**
 
 Versionhallinnassa käytetään tällä kurssilla Gittiä, tarkemmin Github-palvelua. Ensimmäisen deadlinen jälkeen palautukseksi katsotaan viimeisin ennen deadlinea suoritettu Github-pushaus. Erillisiä sähköpostipalautuksia tai vastaavia ei hyväksytä.
 
