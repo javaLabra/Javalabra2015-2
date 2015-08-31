@@ -39,7 +39,7 @@ Jokaisen palautuksen yhteydessä ohjelma tulee voida ajaa ilman virheilmoituksia
 
 ### Demot
 
-* Demot pidetään 27.4. ja 28.4. päivinä
+* Demot pidetään elokuun alussa, oletettavasti viikolla 42
 * Tarkempi ajankohta sovitaan myöhemmin
 * Demotilaisuuteen on pakko osallistua.
 * Omaa työtä esitetään 5-10 min. 
