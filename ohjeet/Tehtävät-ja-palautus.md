@@ -1,6 +1,6 @@
 ﻿#Tehtävät ja palautus
 
-**Deadline on palautuksille perjantaisin klo 23:59 ja loppupalautukselle sunnuntaina 3.5. klo 23:59**
+**Deadline on palautuksille perjantaisin klo 23:59 ja loppupalautukselle sunnuntaina 18.10. klo 23:59**
 
 Ensimmäisessä deadline suoritetaan tekemällä vaadittavat tehtävät ja rekisteröitymällä [labtooliin](http://tktl-labtool.herokuapp.com/register). Versionhallinnassa käytetään tällä kurssilla Gittiä, tarkemmin Github-palvelua. Ensimmäisen deadlinen jälkeen palautukseksi katsotaan viimeisin ennen deadlinea suoritettu Github-pushaus. Erillisiä sähköpostipalautuksia tai vastaavia ei hyväksytä.
 
@@ -13,28 +13,28 @@ Jokaisen palautuksen yhteydessä ohjelma tulee voida ajaa ilman virheilmoituksia
 * Käy tasaisin ajoin keskustelemassa edistymisestäsi, saat samalla palautteen!
 * **Lisäaikaa saa hyvällä syyllä, etukäteen pyytämällä**
 
-### Deadline I, perjantai 13.3.
+### Deadline I, perjantai 4.9.
 * [Deadlinen 1 vaatimukset](Deadline-1.md)
 
-### Deadline II, perjantai 20.3.
+### Deadline II, perjantai 11.9.
 * [Deadlinen 2 vaatimukset](Deadline-2.md)
 
-### Deadline III, perjantai 27.3.
+### Deadline III, perjantai 18.9.
 * [Deadlinen 3 vaatimukset](Deadline-3.md)
 
-### Deadline Katselmointi I, perjantai 3.4.
+### Deadline Katselmointi I, sunnuntai 20.9.
 * Deadline [koodikatselmoinnille](Koodikatselmointi.md)
 
-### Deadline IV, perjantai 10.4.
+### Deadline IV, perjantai 25.9.
 * [Deadlinen 4 vaatimukset](Deadline-4.md)
 
-### Deadline V, perjantai 17.4.
+### Deadline V, perjantai 2.10.
 * [Deadlinen 5 vaatimukset](Deadline-5.md)
 
-### Deadline VI, perjantai 24.4.
+### Deadline VI, perjantai 9.10.
 * [Deadlinen 6 vaatimukset](Deadline-6.md)
 
-### Deadline Katselmointi II, torstai 30.4.
+### Deadline Katselmointi II, sunnuntai 11.10.
 * Deadline [koodikatselmoinnille](Koodikatselmointi.md)
 
 ### Demot
@@ -47,6 +47,6 @@ Jokaisen palautuksen yhteydessä ohjelma tulee voida ajaa ilman virheilmoituksia
 * Vastataan myös ohjaajien tai muiden ryhmäläisten esittämiin kysymyksiin.
 * Testaa, että ohjelmasi toimii laitoksen koneilla ennen demoa. Demokoneelle on ladattu kaikkien kurssilaisten GitHub-repositoriot hieman ennen demotilaisuuden alkua. Voit vaihtoehtoisesti tuoda oman läppärisi ja demota siltä.
 
-### Deadline VII ja lopullinen palautus, sunnuntai 3.5.
+### Deadline VII ja lopullinen palautus, sunnuntai 18.10.
 * [Deadlinen 7 vaatimukset](Deadline-7-lopullinen-palautus.md)
 * [Muistilista lopullista palautusta varten](Muistilista.md)
