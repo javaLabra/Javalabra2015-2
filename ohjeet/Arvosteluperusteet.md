@@ -1,8 +1,8 @@
 ﻿# Arvosteluperusteet
 
-### Aikataulun noudattaminen (10 pistettä)
+### Aikataulun noudattaminen (12 pistettä)
 
-* Max 2 pistettä per deadline I-IV ks. [Tehtävät ja palautus](Tehtävät-ja-palautus.md)
+* Max 2 pistettä per deadline I-VI ks. [Tehtävät ja palautus](Tehtävät-ja-palautus.md)
 
 ### Dokumentaatio (10 pistettä)
 
@@ -22,7 +22,7 @@
 * Sovellustason testauksen raportointi (VAPAAEHTOINEN, korvaa puutteita testauksessa enintään 2 pistettä)
 
 
-### Toteutus (26 pistettä)
+### Toteutus (25 pistettä)
 
 * Toimiva .jar-tiedosto
 * Toteutuksen laajuus suhteessa työn vaativuuteen
@@ -32,11 +32,11 @@
 * Koodin selkeys ja luettavuus, muuttujien nimeäminen
 * Oliorakenteen ja ohjelman selkeys
 
-### Katselmointi (4 pistettä)
+### Katselmointi (3 pistettä)
 
 * Kaksi katselmointikertaa
-* Max 2p per katselmointikierros
-* 5-10 laadukasta rakentavaa palautekommenttia riittää 2 pisteeseen
+* Max 1,5p per katselmointikierros
+* 5-8 laadukasta rakentavaa palautekommenttia riittää 1,5 pisteeseen
 
 
 **Maksimipisteet: 60**

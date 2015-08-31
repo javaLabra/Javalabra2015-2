@@ -15,8 +15,8 @@
   * Jos jaoit koodin paketteihin, huomioi myös testipakettien nimentä
 * Yhtä luokkaa kohti saa olla myös useita testiluokkia
 * Poista viime viikon pit-raportti ja generoi uusi sen tilalle.
-  * [ohjeet](https://github.com/javaLabra/Javalabra2015-5/blob/master/ohjeet/Maven-ja-PIT.md#raportit)
-  * Logiikan rivikattavuus olisi hyvä olla jo >70%.
+  * [ohjeet](Maven-Cobertura-ja-PIT.md#raportit)
+  * Kannattaa tutkia myös cobertura-raportti. Logiikan rivikattavuus olisi hyvä olla jo >70%.
 
 ### Luokkakaavio
 * Tarkenna ohjelman luokkakaaviota tai piirrä uusi kuvaamaan nykyistä rakennetta

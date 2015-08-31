@@ -20,7 +20,8 @@
   * Huomioi [koodin laatuvaatimuksien](Koodin-laatuvaatimukset.md) alakohta *Testaus*
 * Noin 10 testiä valmiina
 * Generoi pit-raportti ja laita se dokumentaatiokansion sisälle pit-kansioon.
-  * [ohjeet](Maven-ja-PIT.md#raportit)
+  * [ohjeet](Maven-Cobertura-ja-PIT.md#raportit)
+  * Kannattaa myös generoida ja katsoa läpi cobertura-raportti, mutta sitä ei tarvitse lisätä dokumentaatioon.
 
 ### Luokkakaavio
 

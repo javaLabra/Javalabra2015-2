@@ -1,16 +1,16 @@
 % Ohjelmoinnin harjoitustyö a.k.a. Javalabra
-% Nikke Kostiainen
-% 27.07.2015
+% Antti Haapaniemi, Tero Mäntylä
+% 10.3.2015
 
 # Ohjaajat
 
 - Ohjaajat
-	- Nikke Kostiainen -- **NikG** -- nikke.kostiainen at helsinki.fi
-	- Jyri Saukkonen -- **Jjyks** -- jyri.saukkonen at helsinki.fi
+	- Antti Haapaniemi -- **Pallero_** -- antti.haapaniemi at helsinki.fi
+	- Tero Mäntylä -- **mantero_** -- tero.mantyla at helsinki.fi
  
 - Yhteyttä sähköpostilla tai irkissä
 - Irkkikanava #javalabra @ IRCnet
-- Kurssisivu <http://github.com/javaLabra/Javalabra2015-1>
+- Kurssisivu <http://github.com/javaLabra/Javalabra2015-4>
 
 # Mistä kyse?
 
@@ -25,7 +25,7 @@
 
 - Pakolliset esitietovaatimukset:
     - **Ohjelmoinnin jatkokurssi**
-    - **Ohjelmistotekniikan menetelmät**
+    - **Ohjelmistotekniikan menetelmät** (Voi suorittaa samanaikaisesti neljännellä periodilla)
 - Tule juttelemaan, jos:
     - Olet käynyt kurssit, mutta olet esimerkiksi ollut poissa tentin aikana
     - Mikä tahansa muu puute esitietovaatimuksiin liittyen
@@ -49,7 +49,7 @@
     - Laivanupotus
     - Olutmuistio
     - Fysiikkasimulaattori
-    - Lisää [esimerkkiaiheita](https://github.com/javaLabra/Javalabra2015-5/blob/master/ohjeet/Esimerkkej%C3%A4-aiheista.md) kurssisivulla
+    - Lisää [esimerkkiaiheita](Esimerkkejä-aihesta.md) kurssisivulla
 - Pelit suosittuja, reaaliaikaiset pelit vähän haasteellisempia mutta toteutettavissa
 - **Valitse ennen kaikkea jokin itseäsi kiinnostava aihe!**
 
@@ -61,10 +61,10 @@
     - Aihetta voi tarvittaessa laajentaa lisäominaisuuksilla -- esimerkiksi tiedostoon tallennetulla highscore-listalla
     - Ohjaajilta voi pyytää laajennusideoita
 
-# Testaus, Maven ja PIT
+# Testaus, Maven, Cobertura ja PIT
 
 - Kurssilla edellytetään kattavaa **automaattista testausta**
-- Nyt kurssilla mukana myös **rivikattavuus** ja **mutaatiotestaus** (PIT)
+- Nyt kurssilla mukana myös **rivikattavuus** (Cobertura) ja **mutaatiotestaus** (PIT)
     - Tuttuja *Ohjelmistotekniikan menetelmät* -kurssilta
 - Kurssisivulla ohjeet työkalujen konffaamiseen
 
@@ -83,7 +83,7 @@
     - Ohjaajat antavat palautetta edistymisestä joka deadlinen jälkeen -- perusteellisempaa palautetta kannattaa tulla pyytämään pajasta
 
 - Kurssin aikana tarjolla **ohjausta** eli pajaa
-    - Luokassa **BK107** (kellarikerroksen pajaluokka)
+    - Luokassa **B221** (toisen kerroksen pajaluokka)
     - Vapaaehtoista
     - **Paras väylä saada apua ja palautetta ohjaajilta**
 
@@ -93,7 +93,7 @@
     - Jokainen opiskelija saa toisen opiskelijan projektin katselmoitavaksi
     - Opiskelijat kirjoittavat palautetta toisen projektista
     - Tarkoitus oppia lukemaan ja ymmärtämään toisten koodia
-    - Katselmoinneista saa 0-2 pistettä/katselmointi. 
+    - Katselmoinneista saa 0-1.5 pistettä/katselmointi. 
 
 # Kurssin kulku
 
@@ -115,10 +115,8 @@
 # Kiitos!
 
 - **Tervetuloa kurssille!**
-- Muistakaa -- ensimmäinen deadline on jo tämän viikon torstaina
-- Kaikki tarvittava löytyy kurssisivulta: <http://javalabra.github.io/Javalabra2015-1/#/pages/>
+- Muistakaa -- ensimmäinen deadline tänään
+- Kaikki tarvittava löytyy kurssisivulta: <http://github.com/javaLabra/Javalabra2015-4>
     - Kannattaa käydä koko sivusto läpi tarkkaan!
-- Tulkaa luokan eteen juttelemaan mikäli:
-    - Esitietovaatimukset eivät ole täysin kunnossa
-    - Mielessänne on jokin aihe, josta ette ole täysin varma
-    - Teillä on mitä tahansa muuta kysyttävää
+- Ohjaajat jäävät paikalle luennon jälkeen -- tervetuloa kyselemään tai pyytämään apua
+	 - On suositeltavaa tehdä ensimmäisen deadlinen tehtävät jo täällä.
