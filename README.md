@@ -27,7 +27,7 @@ Sähköpostit: etunimi.sukunimi@helsinki.fi
 
 * Aloitusluento tiistaina 1.9. klo 12-14 luokassa B221, läsnäolo pakollinen!
 * **(28.9.)** Kurssisivut pystytetty
-* **(18.9.) PAJA PERUTTU**
+* **(18.9.) PAJA PERUTTU Ohjaajien paikallepääsemättömyyden takia**
 
 ### Aikataulu
 
