@@ -1,12 +1,12 @@
 % Ohjelmoinnin harjoitustyö a.k.a. Javalabra
-% Nikke Kostiainen, Jyri Saukkonen
-% 1.9.2015
+% Jyri Saukkonen, todo: Ooppa
+% 26.10.2015
 
 # Ohjaajat
 
 - Ohjaajat
-	- Nikke Kostiainen -- **NikG** -- nikke.kostiainen at helsinki.fi
 	- Jyri Saukkonen -- **JjyKs** -- jyri.saukkonen at helsinki.fi
+    todo: Ooppa
  
 - Yhteyttä sähköpostilla tai irkissä
 - Irkkikanava #javalabra @ IRCnet
