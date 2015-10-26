@@ -26,12 +26,12 @@ Sähköpostit: etunimi.sukunimi@helsinki.fi
 
 ## Uutisia
 
-* Aloitusluento tiistaina 1.9. klo 12-14 luokassa B221, läsnäolo pakollinen!
-* **(28.9.)** Kurssisivut pystytetty
+* Aloitusluento tiistaina 26.10. klo 14-16 luokassa B221, läsnäolo pakollinen!
+* **(26.10.)** Kurssisivut julkaistu
 
 ### Aikataulu
 
-Pajat pidetään [Exactumissa](http://www.helsinki.fi/teknos/opetustilat/kumpula/gh2b/default.htm) luokassa **BK107**, ellei toisin ilmoiteta. Demotilaisuudet pidetään alustavasti viikolla 42, tarkemmat ajat määritellään myöhemmin.
+Pajat pidetään [Exactumissa](http://www.helsinki.fi/teknos/opetustilat/kumpula/gh2b/default.htm) luokassa **BK107**, ellei toisin ilmoiteta. Demotilaisuudet pidetään alustavasti viikolla 50, tarkemmat ajat määritellään myöhemmin.
 
 | Viikko | ma | ti | ke | to | pe | la | su |
 | --- | --- | --- | --- | --- | --- | --- | --- |
