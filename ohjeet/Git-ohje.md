@@ -68,7 +68,7 @@ SSH-avaimen luominen ei ole pakollista, mutta helpottaa versionhallinnan käytt�
 2. Avaa README-tiedosto suosikkitekstieditorillasi, vaikkapa komennolla `nano README.md`
 3. Tiedoston pitäisi aueta valitsemassasi editorissa. Kirjoita tiedostoon jotakin ja tallenna se. Nanossa tallenna ja sulje tiedosto painamalla *Ctrl + x*, ja vahvista tallennus painamalla *enter*.
 4. Anna komentorivillä komento *git status*. Nyt näet luettelon tiedostoista, joita olet muokannut (modified), tässä tapauksessa README-tiedosto.
-5. Anna komento git commit -am “eka muokkaus”. Jos viesti (tässä eka muokkaus) unohtuu, avautuu editori. Poistu editorista komennolla `q`. Anna antamasi commit-komento uudelleen, tällä kertaa viestin kera.
+5. Anna komento git commit -am "eka muokkaus". Jos viesti (tässä eka muokkaus) unohtuu, avautuu editori. Poistu editorista komennolla `q`. Anna antamasi commit-komento uudelleen, tällä kertaa viestin kera.
 6. Nyt tekemäsi muokkaukset (README-tiedoston muokkaus) ovat paikallisessa repositoriossasi. Sieltä ne pitää vielä työntää verkossa olevaan Githubin repoosi komennolla `git push`.
   * Jos git push sanoo "Permission denied (publickey)", kokeile ssh-avaimen generointia uudestaan tai komentoa `ssh-add`
 7. Mene Githubin sivulla olevaan repositoriosi näkymään (kuten edellisen ohjeen kohdassa 1) ja päivitä näkymä. Huomaat, että README-tiedostoon tekemäsi muokkaukset ovat nyt Githubissa asti, antamasi viestin kera!
