@@ -14,7 +14,7 @@
 
 **Ohjaajat:**
 * Jyri Saukkonen (jjyks)
-* Olli Mehtonen (Ooppa)
+* Olli-Pekka Mehtonen (Ooppa)
 
 
 Sähköpostit: etunimi.sukunimi@helsinki.fi
