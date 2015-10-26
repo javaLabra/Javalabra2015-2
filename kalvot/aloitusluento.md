@@ -1,12 +1,12 @@
 % Ohjelmoinnin harjoitustyö a.k.a. Javalabra
-% Jyri Saukkonen, todo: Ooppa
+% Jyri Saukkonen, Olli Mehtonen
 % 26.10.2015
 
 # Ohjaajat
 
 - Ohjaajat
 	- Jyri Saukkonen -- **JjyKs** -- jyri.saukkonen at helsinki.fi
-    todo: Ooppa
+    - Olli Mehtonen -- **Ooppa** -- olli.mehtonen at helsinki.fi
  
 - Yhteyttä sähköpostilla tai irkissä
 - Irkkikanava #javalabra @ IRCnet
