@@ -35,13 +35,13 @@ Pajat pidetään [Exactumissa](http://www.helsinki.fi/teknos/opetustilat/kumpula
 
 | Viikko | ma | ti | ke | to | pe | la | su |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| **44** <br> 31.8-6.9 |  -  |**Aloitustilaisuus**<br>klo.12-14<br>B221|  -  |  -  |**PAJA** <br>klo.16-18 <br> **Palautus 1** <br> klo. 23:59|  -  |  -  |
-| **45** <br> 7.-13.9 |  - |  -  |  -  |  -  |**Palautus 2** <br> klo. 23:59|  -  |  -  |
-| **46** <br> 14.-20.9 |  - |  -  |  -  |  -  |**Palautus 3** <br> klo. 23:59|  -  |**Katselmointi 1** <br> klo: 23:59  |
-| **47** <br> 21.-27.9 |  - |  -  |  -  |  -  |**Palautus 4** <br> klo. 23:59|  -  |  -  | 
-| **48** <br> 28.9-4.10 |  - |  -  |  -  |  -  |**Palautus 5** <br> klo. 23:59|  -  |  -  |
-| **49** <br> 5.10-11.10 |  - |  -  |  -  |  -  |**Palautus 6** <br> klo. 23:59|  -  |**Katselmointi 2** <br> klo: 23:59  |
-| **50** <br> 12.10-18.10 |  - |  -  |  -  |  -  |**DEMOTILAISUUS** <br>klo.16-18 <br>|  -  | **Lopullinen palautus** <br> klo. 23:59|
+| **44** <br> 26.10-1.11 |**Aloitustilaisuus**<br>klo.14-16<br>B221|  -  |  -  |  -  |**PAJA** <br>klo.16-18 <br> **Palautus 1** <br> klo. 23:59|  -  |  -  |
+| **45** <br> 2.-8.11 |  - |  -  |  -  |  -  |**Palautus 2** <br> klo. 23:59|  -  |  -  |
+| **46** <br> 9.-15.11 |  - |  -  |  -  |  -  |**Palautus 3** <br> klo. 23:59|  -  |**Katselmointi 1** <br> klo: 23:59  |
+| **47** <br> 16.-22.11 |  - |  -  |  -  |  -  |**Palautus 4** <br> klo. 23:59|  -  |  -  | 
+| **48** <br> 23-29.11 |  - |  -  |  -  |  -  |**Palautus 5** <br> klo. 23:59|  -  |  -  |
+| **49** <br> 30.11-6.11 |  - |  -  |  -  |  -  |**Palautus 6** <br> klo. 23:59|  -  |**Katselmointi 2** <br> klo: 23:59  |
+| **50** <br> 7.11-13.11 |  - |  -  |  -  |  -  |**DEMOTILAISUUS** <br>klo.16-18 <br>|  -  | **Lopullinen palautus** <br> klo. 23:59|
 
 
 
