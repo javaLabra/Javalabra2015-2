@@ -26,7 +26,7 @@ Sähköpostit: etunimi.sukunimi@helsinki.fi
 
 ## Uutisia
 
-* Aloitusluento tiistaina 26.10. klo 14-16 luokassa B221, läsnäolo pakollinen!
+* Aloitusluento maanantaina 26.10. klo 14-16 luokassa B221, läsnäolo pakollinen!
 * **(26.10.)** Kurssisivut julkaistu
 
 ### Aikataulu
