@@ -35,7 +35,7 @@ Pajat pidetään [Exactumissa](http://www.helsinki.fi/teknos/opetustilat/kumpula
 
 | Viikko | ma | ti | ke | to | pe | la | su |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| **44** <br> 26.10-1.11 |**Aloitustilaisuus**<br>klo.14-16<br>B221|  -  |  -  |  -  |**PAJA** <br>klo.16-18 <br> **Palautus 1** <br> klo. 23:59|  -  |  -  |
+| **44** <br> 26.10-1.11 |**Aloitustilaisuus**<br>klo.14-16<br>B221|  -  |  -  |  -  |**Palautus 1** <br> klo. 23:59|  -  |  -  |
 | **45** <br> 2.-8.11 |  - |  -  |  -  |  -  |**Palautus 2** <br> klo. 23:59|  -  |  -  |
 | **46** <br> 9.-15.11 |  - |  -  |  -  |  -  |**Palautus 3** <br> klo. 23:59|  -  |**Katselmointi 1** <br> klo: 23:59  |
 | **47** <br> 16.-22.11 |  - |  -  |  -  |  -  |**Palautus 4** <br> klo. 23:59|  -  |  -  | 
