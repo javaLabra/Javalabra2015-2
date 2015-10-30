@@ -28,6 +28,8 @@ Sähköpostit: etunimi.sukunimi@helsinki.fi
 
 * Aloitusluento maanantaina 26.10. klo 14-16 luokassa B221, läsnäolo pakollinen!
 * **(26.10.)** Kurssisivut julkaistu
+* **(30.10.)** HUOM. Laitos menee poikkeuksellisesti kiinni jo neljältä, joten pajaohjaus peruutettu. Pahoittelut erittäin lyhyestä varoitusajasta. Deadlineja pidennetään tiistaihin asti. Jos et pääse paikalle niin pistä sähköpostia Jyrille niin deadlineja pidennetään seuraavaan pajaan asti.
+
 
 ### Aikataulu
 
