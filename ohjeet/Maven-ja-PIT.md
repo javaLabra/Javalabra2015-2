@@ -177,7 +177,7 @@ Seuraavan tyylisellä (muuta param-kohdat omaa ohjelmaasi vastaaviksi):
     </configuration>
 </plugin>
 ```
-Eli jos haluat testata paketin joka NetBeanssissa on laivanupotus.logiikka, täytyy pom.xml:ään laittaa aivan suoraan `<param>laivanupotus.logiikka*</param>`.
+Eli jos haluat testata paketin joka NetBeanssissa on laivanupotus.logiikka, täytyy pom.xml:ään laittaa aivan suoraan `<param>laivanupotus.logiikka.*</param>`.
 
 
 ### Virhetilanteet
