@@ -13,28 +13,28 @@ Jokaisen palautuksen yhteydessä ohjelma tulee voida ajaa ilman virheilmoituksia
 * Käy tasaisin ajoin keskustelemassa edistymisestäsi, saat samalla palautteen!
 * **Lisäaikaa saa hyvällä syyllä, etukäteen pyytämällä**
 
-### Deadline I, perjantai 4.9.
+### Deadline I, perjantai 30.9.
 * [Deadlinen 1 vaatimukset](Deadline-1.md)
 
-### Deadline II, perjantai 11.9.
+### Deadline II, perjantai 6.11.
 * [Deadlinen 2 vaatimukset](Deadline-2.md)
 
-### Deadline III, perjantai 18.9.
+### Deadline III, perjantai 13.11.
 * [Deadlinen 3 vaatimukset](Deadline-3.md)
 
-### Deadline Katselmointi I, sunnuntai 20.9.
+### Deadline Katselmointi I, sunnuntai 22.11.
 * Deadline [koodikatselmoinnille](Koodikatselmointi.md)
 
-### Deadline IV, perjantai 25.9.
+### Deadline IV, perjantai 27.11.
 * [Deadlinen 4 vaatimukset](Deadline-4.md)
 
-### Deadline V, perjantai 2.10.
+### Deadline V, perjantai 4.11.
 * [Deadlinen 5 vaatimukset](Deadline-5.md)
 
-### Deadline VI, perjantai 9.10.
+### Deadline VI, perjantai 11.12.
 * [Deadlinen 6 vaatimukset](Deadline-6.md)
 
-### Deadline Katselmointi II, sunnuntai 11.10.
+### Deadline Katselmointi II, sunnuntai 15.12.
 * Deadline [koodikatselmoinnille](Koodikatselmointi.md)
 
 ### Demot
